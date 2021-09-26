@@ -1,8 +1,8 @@
 # :man_technologist: Deoclecio Amorim
 
-- 🔭 Atualmente sou estudante de Doutorado do programa de Pós-Graduação em Estatística e Experimentação Agronômica da ESALQ/USP.
+- 🔭 Atualmente estudante de Doutorado do programa de Pós-Graduação em Estatística e Experimentação Agronômica da ESALQ/USP.
 - 🌱 Atualmente apreendendo C++
-- 📫 deocleciojardim@hotmail.com
+
 
  ## 
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deoclecio-jardim-amorim-3a3752115/)](https://www.linkedin.com/in/deoclecio-jardim-amorim-3a3752115/)
