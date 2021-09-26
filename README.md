@@ -5,7 +5,6 @@
 - 📫 deocleciojardim@hotmail.com
 
  ## 
-  [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:deocleciojardim@hotmail.com)](mailto:deocleciojardim@hotmail.com)
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deoclecio-jardim-amorim-3a3752115/)](https://www.linkedin.com/in/deoclecio-jardim-amorim-3a3752115/)
   [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5514981529862&text=Olá!)](https://api.whatsapp.com/send?phone=5514981529862&text=Olá!)
 ## 
