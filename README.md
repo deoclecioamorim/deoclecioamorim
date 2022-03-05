@@ -20,11 +20,13 @@
   <img align="center" alt="C++-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 </div>
   
+ 
+  
+  
+---
+
  <!-- Widget do selo do Calendly - início -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
 <script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/deocleciojardim/50min', text: 'Agende um horário comigo', color: '#0069ff', textColor: '#ffffff', branding: true }); }</script>
 <!-- Widget do selo do Calendly - fim -->
-  
-  
----
