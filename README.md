@@ -20,12 +20,7 @@
   <img align="center" alt="C++-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 </div>
   
- <div align="center">
  
-<div class="calendly-inline-widget" data-url="https://calendly.com/deocleciojardim/50min" style="min-width:320px;height:630px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-
-  </div>
   
 ---
 
