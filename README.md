@@ -1,4 +1,4 @@
-# :man_technologist: Deoclecio Amorim
+# :man_technologist: Deoclecio J. Amorim
 
 - 🔭 Atualmente estudante de Doutorado do programa de Pós-Graduação em Estatística e Experimentação Agronômica da ESALQ/USP.
 - 🌱 Atualmente apreendendo C++
