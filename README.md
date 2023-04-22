@@ -3,10 +3,6 @@
 - 🔭 Atualmente estudante de Doutorado do programa de Pós-Graduação em Estatística e Experimentação Agronômica da ESALQ/USP.
 - 🌱 Atualmente apreendendo C++
 
-##
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="deoclecioamorim" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/deoclecioamorim?trk=profile-badge">Deoclecio Jardim Amorim</a></div>
-##            
-
  ## 
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deoclecio-jardim-amorim-3a3752115/)](https://www.linkedin.com/in/deoclecio-jardim-amorim-3a3752115/)
   [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5514981529862&text=Olá!)](https://api.whatsapp.com/send?phone=5514981529862&text=Olá!)
