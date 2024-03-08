@@ -1,7 +1,12 @@
 # :man_technologist: Deoclecio J. Amorim
 
 - 🔭 Doutor em Estatística e Experimentação Agronômica da ESALQ/USP
-- 🌱 Atualmente apreendendo C++
+- 🌱 Atualmente apreendendo C++ e Python
+
+“To consult the statistician after an experiment is
+finished is often merely to ask him to conduct a post mortem
+examination. He can perhaps say what the experiment died of.”
+Ronald Fisher (1938)
 
  ## 
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deoclecio-jardim-amorim-3a3752115/)](https://www.linkedin.com/in/deoclecio-jardim-amorim-3a3752115/)
